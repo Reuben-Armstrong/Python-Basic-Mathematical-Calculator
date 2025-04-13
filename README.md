@@ -25,7 +25,7 @@ Perfect for students learning Python, math, or preparing for GCSE Computer Scien
 2. Clone or download the script.
 3. Open terminal or any IDE, then run:
 
-   python basic_calculator.py
+   python main.py
 
 ---
 
